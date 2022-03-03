@@ -23,8 +23,7 @@ class Main {
     double ortalama;
     ortalama=Math.round((matematik+fizik+kimya+turkce+biyoloji+tarih)/6);
     String durum;
-    if(ortalama<60) durum="Kaldı!";
-    else durum="Geçti";
+    durum= (ortalama<6) ? "Kaldı" : "Geçti";
     System.out.println();
     System.out.print("Ortalama : "+ortalama+" - "+durum);
     
