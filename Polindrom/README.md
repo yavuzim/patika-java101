@@ -1,3 +1,3 @@
-cikti1.png<br>
-cikti2.png<br>
-cikti3.png<br>
+<img src="cikti1.png" /><br>
+<img src="cikti2.png" /><br>
+<img src="cikti3.png" /><br>
