@@ -14,7 +14,7 @@ public class AlgoritmaDers {
 		Scanner in = new Scanner(System.in);
 		System.out.print("Number : ");
 		int n = in.nextInt();
-		// System.out.print(1 + " " + 1+" ");
+		 System.out.print(1+" ");
 		for (int i = 2; i <= n; i++) {
 			System.out.print(fibonacci(i) + " ");
 		}
