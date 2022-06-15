@@ -1,3 +1,5 @@
+<i>Patika Platformunun Ücretsiz Olarak Sunmuş Olduğu Java101 Eğitimine Ait Ödevler.</i>
+
 <h2>How to run</h2>
 
 ```
