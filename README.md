@@ -1,4 +1,4 @@
-<i>Patika Platformunun Ücretsiz Olarak Sunmuş Olduğu Java101 Eğitimine Ait Ödevler.</i>
+# patika-java101
 
 <h2>How to run</h2>
 
