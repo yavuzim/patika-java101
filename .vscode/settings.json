@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src/1)Vücut Kitle İndeksi Hesaplama",
+        "src/2) Manav Kasa Programı"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
