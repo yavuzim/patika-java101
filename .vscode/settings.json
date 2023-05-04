@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "src/1)Vücut Kitle İndeksi Hesaplama",
-        "src/2) Manav Kasa Programı"
+        "src/2) Manav Kasa Programı",
+        "src/3) Ucak Bileti"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
