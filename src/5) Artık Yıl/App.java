@@ -9,7 +9,9 @@ public class App {
         // Klavyeden yıl bilgisini aldık.
         System.out.print("Yıl : ");
         int date = input.nextInt();
+
         String outputMessage;
+        
         if(date % 100 == 0){
             if(date % 400 == 0){
                 outputMessage = date + " bir artık yıldır !";

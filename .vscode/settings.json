@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "src/5) Artık Yıl",
         "src/3) Ucak Bileti",
         "src/2) Manav Kasa Programı",
-        "src/5) Artık Yıl"
+        "src/6) Min Max"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
