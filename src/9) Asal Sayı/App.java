@@ -17,8 +17,6 @@ public class App {
             if(flag){
                 System.out.print(i+" , ");
             }
-        }
-        
-       
+        } 
     }
 }

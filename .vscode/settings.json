@@ -1,12 +1,14 @@
 {
     "java.project.sourcePaths": [
+        "src/9) Asal Sayı",
         "src/8) Ters Üçgen Yapımı",
         "src/7) Mükemmel Sayı",
         "src/6) Min Max",
         "src/5) Artık Yıl",
         "src/3) Ucak Bileti",
         "src/2) Manav Kasa Programı",
-        "src/9) Asal Sayı"
+        "src/10) Fibonacci Serisi",
+        "src/Fibonacci Serisi"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
