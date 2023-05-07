@@ -1,1 +1,2 @@
-# Dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan program.
+# 1 - 100 Arası Asal Sayıları Yazan Program
+
