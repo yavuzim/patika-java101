@@ -7,11 +7,12 @@
         "src/5) Artık Yıl",
         "src/3) Ucak Bileti",
         "src/2) Manav Kasa Programı",
+        "src/14 Maş Hesaplayıcı",
         "src/13) Desen Oluşturma",
         "src/12) Recursive Asal Sayı",
         "src/11) Üs Metodu",
         "src/10) Fibonacci Serisi",
-        "src/14 Maş Hesaplayıcı"
+        "src/15) Eleman Sıralama"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
